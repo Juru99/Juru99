@@ -19,7 +19,7 @@
 
 
 - 🔭 I’m currently working on Blog Project
-- 🌱 I’m currently learning Node.js and spring boot
+- 🌱 I’m currently learning Vue.js, Node.js and spring boot
 
 <!--
 - 👯 I’m looking to collaborate on ...
