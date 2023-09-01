@@ -18,10 +18,9 @@
 <img src="https://img.shields.io/badge/Figma-F76E5E?logo=Figma&logoColor=white"/>
 
 
+<!--
 - 🔭 I’m currently working on Blog Project
 - 🌱 I’m currently learning Vue.js, Node.js and spring boot
-
-<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
